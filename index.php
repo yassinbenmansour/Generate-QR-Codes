@@ -10,7 +10,7 @@
 </head>
 <body>
 
-    <h1> <?php  echo "Generating QR Codes"  ?> </h1>
+ <?php  echo " <h1>Generating QR Codes</h1>"  ?> 
     
     <form method="post" action="generatecode.php">
         
